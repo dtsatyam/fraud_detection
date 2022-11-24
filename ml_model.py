@@ -9,7 +9,7 @@ def model2():
     print("Adding code for ML Model 2")
 
 def model3():
-    print("Adding code for ML Model 3")
+    print("Adding code for ML Model 4")
 
 
 print("Model 2 is performing best")
